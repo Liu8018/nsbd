@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/images/document-open.png</file>
+        <file>resources/images/media-playback-pause-symbolic.svg</file>
+        <file>resources/images/media-playback-start-symbolic.svg</file>
+        <file>resources/images/nsbd.ico</file>
+    </qresource>
+</RCC>
